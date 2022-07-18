@@ -27,3 +27,4 @@ class Fixed extends AccountTypes {
         System.out.println("Money in this account is fixed for a period of time");
     }
 }
+
