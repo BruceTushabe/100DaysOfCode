@@ -1,8 +1,8 @@
 package Encapsulation;
 
-public class employee{
+public class employee {
 
-    // Private helps in encapsulation
+    // Encapsulation in action
     private String name;
     private int Id;
     private int salary;
@@ -25,7 +25,7 @@ public class employee{
 
     public int getSalary() {
         return salary;
-    }
+}
 
     public void setSalary(int salary) {
         this.salary = salary;
