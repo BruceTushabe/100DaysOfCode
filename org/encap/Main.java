@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String[] args){
 
-        var employee = new Employee(id: 888, name: Kansime, salary: 120000);
+        var cars = new Cars(year: 888, model: mazda, price: 120000);
 
-        employee.id;
-        employee.name;
-        employee.salary;
+        cars.year;
+        cars.model;
+        cars.price;
 
     }
 
