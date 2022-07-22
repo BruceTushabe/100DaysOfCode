@@ -15,7 +15,6 @@ public class Main {
         System.out.println("I would like to get 2 SUVs of " + cars.model());
         System.out.println("My goal is to raise " + cars.price());
         System.out.println("I am particularly interested in the " + cars.year());
-        
 
     }
 
