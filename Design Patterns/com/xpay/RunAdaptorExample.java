@@ -4,7 +4,7 @@ import com.xpay.Xpay;
 import com.xpay.PayD;
 
 public class RunAdaptorExample{
-    public static void name(String[] args) {
+    public static void main(String[] args) {
 
         // Objects for Xpay
 
