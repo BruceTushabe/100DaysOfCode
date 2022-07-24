@@ -2,7 +2,7 @@ package com.xpay;
 
 import com.xpay.Xpay;
 
-public class XpayImpl {
+public class XpayImpl implements Xpay {
 
     private String creditCardNo;
     private String customerName;
@@ -25,9 +25,9 @@ public class XpayImpl {
         return customerName;
      }
 
-     @Override 
+     @Override
 
-     public String getcardExpMonth(){
+     public String getCardExpMonth(){
         return cardExpMonth;
      }
 
@@ -39,7 +39,7 @@ public class XpayImpl {
 
      @Override
 
-     public Short getCarCVVNo(){
+     public Short getCardCVVNo(){
         return cardCVVNo;
      }
 
@@ -51,7 +51,7 @@ public class XpayImpl {
 
      @Override
 
-     public void setCreditCardNo (String cardCreditNo){
+     public void setCreditCardNo (String creditCardNo){
         this.creditCardNo = creditCardNo;
      }
      @Override

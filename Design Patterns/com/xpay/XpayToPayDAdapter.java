@@ -80,9 +80,4 @@ public class XpayToPayDAdapter implements PayD {
     }
 
 
-
-
-
-
-    
 }

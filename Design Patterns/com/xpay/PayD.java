@@ -1,6 +1,6 @@
 package com.xpay;
 
-public class PayD {
+public interface PayD {
 
     public String getCustCardNo();
     public String getCardOwnerName();
@@ -11,7 +11,7 @@ public class PayD {
     public void setCustCardNo (String creditCardNo);
     public void setCardOwnerName (String customerName);
     public void setCardExpMonthDate (String cardExpMonth);
-    public void setCardCVVNo (Short cardCVVNo);
+    public void setCVVNo (Integer CVVNo);
     public void setTotalAmount (Double Amount);
-    
+
 }
