@@ -1,6 +1,5 @@
-import lombok.Data;
-
 public class SingleResp{
+
     public static void main(String[] args){
 
     }
