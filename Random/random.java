@@ -22,8 +22,8 @@ class GenerateRandom{
         System.out.println(int_random);
         System.out.println(double_random);
         System.out.println(float_random);
-        
-
+    
         
     }
+
 }
