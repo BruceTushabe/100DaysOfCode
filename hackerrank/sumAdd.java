@@ -5,11 +5,16 @@ public class sumAdd {
  
 
     public static void main(String[] args) {
-        
-        int a = 2;
-        int b = 3;
-        
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please enter integer a: ");
+        int a = input.nextInt();
+        System.out.println("And now enter inter b");
+        int b = input.nextInt();
+
         System.out.println(Integer.sum(a,b));
-            
+
+        input.close();
+
     }
 }
