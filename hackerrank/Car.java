@@ -1,3 +1,5 @@
+package hackerrank;
+
 public class Car {
 
     int maxSpeed = 180;
