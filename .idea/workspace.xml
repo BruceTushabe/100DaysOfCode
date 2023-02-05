@@ -44,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/100DaysOfCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TheArrays">
+  <component name="RunManager" selected="Application.operator2">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.Car" />
       <module name="100DaysOfCode" />
@@ -84,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="operator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.operator2" />
+      <module name="100DaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.result" />
       <module name="100DaysOfCode" />
@@ -93,12 +106,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.TheArrays" />
+      <item itemvalue="Application.operator2" />
       <item itemvalue="Application.Car" />
       <item itemvalue="Application.result" />
       <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operator2" />
         <item itemvalue="Application.TheArrays" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.result" />
