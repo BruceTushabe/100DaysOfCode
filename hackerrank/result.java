@@ -18,6 +18,10 @@ public class result {
 
         System.out.println("Enter a string: ");
         String input = sc.nextLine();
+
+        sc.close();
+
+
         while (!input.equals("STOP"))
         {
             values.add(input);

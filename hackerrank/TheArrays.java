@@ -21,6 +21,8 @@ public class TheArrays {
         System.out.println("Thank you for your resilience, one last favour array! Let's enter the fifth array: ");
         String arr5 = input.nextLine();
 
+        input.close();
+
         colors[0] = arr1;
         colors[1] = arr2;
         colors[2] = arr3;
