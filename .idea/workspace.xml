@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/wResult.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +45,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/100DaysOfCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.operator2">
+  <component name="RunManager" selected="Application.sumSubs">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.Car" />
-      <module name="100DaysOfCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Solution" />
       <module name="100DaysOfCode" />
       <extension name="coverage">
         <pattern>
@@ -104,20 +92,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumSubs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.sumSubs" />
+      <module name="100DaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.sumSubs" />
       <item itemvalue="Application.TheArrays" />
       <item itemvalue="Application.operator2" />
       <item itemvalue="Application.Car" />
       <item itemvalue="Application.result" />
-      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumSubs" />
         <item itemvalue="Application.operator2" />
         <item itemvalue="Application.TheArrays" />
         <item itemvalue="Application.Car" />
         <item itemvalue="Application.result" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
