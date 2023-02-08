@@ -54,6 +54,4 @@ public class invoice implements Payable{
     public double getPaymentAmount(){
         return getQuantity() * getPricePerItem();
     }
-    
-
 }
