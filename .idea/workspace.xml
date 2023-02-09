@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code" />
+    <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,5 +183,20 @@
     <MESSAGE value="Day 17, Created a new project on encapsulation." />
     <MESSAGE value="Improved the code" />
     <option name="LAST_COMMIT_MESSAGE" value="Improved the code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pdfInvoice/invoice.java</url>
+          <line>49</line>
+          <properties class="invoice" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
