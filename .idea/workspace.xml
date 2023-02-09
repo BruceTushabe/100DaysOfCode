@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code">
+      <change afterPath="$PROJECT_DIR$/hackerrank/ArrayExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/just.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/just.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/API.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/AccountTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Added.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/AllArgsConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Current.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Encapsulation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Encapsulation/employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Fixed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/GenerateRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/Saving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/TestingArrya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/anotherRand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/arraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/arrays/JavaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/xpay/PayD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/xpay/RunAdaptorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/xpay/Xpay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/xpay/XpayImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/com/xpay/XpayToPayDAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/findDivisable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/fizz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/hackerrank/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/hackerrank/morePractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/hackerrank/operator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/org/encap/Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/org/encap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCode/sumAdd.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +75,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/100DaysOfCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sumSubs">
+  <component name="RunManager">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.Car" />
       <module name="100DaysOfCode" />

@@ -1,5 +1,4 @@
 package hackerrank;
-
 public class just {
 
     // Function to calculate the count
@@ -28,11 +27,5 @@ public class just {
         int rows = 4;
 
         System.out.println(getCount(rows, columns. A));
-
-
-
-
-
-
     }
 }
