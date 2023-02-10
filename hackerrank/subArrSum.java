@@ -1,4 +1,3 @@
-package hackerrank;// Given an integer array ‘arr[]’ of size N,
 //find the sum of all sub-arrays of the given array. 
 
 public class subArrSum {
