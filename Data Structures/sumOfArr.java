@@ -21,18 +21,3 @@ public class sumOfArr {
         System.out.println("Sum of the elements of the array ::"+sum);
      }
   }
-
-
-        
-
-        
-        
-        
-        
-        
-        
-    }
-    
-
-
-}
