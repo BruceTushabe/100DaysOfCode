@@ -44,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/100DaysOfCode&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sumSubs">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.Car" />
       <module name="100DaysOfCode" />
@@ -105,11 +105,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.sumSubs" />
+      <item itemvalue="Application.Car" />
       <item itemvalue="Application.TheArrays" />
       <item itemvalue="Application.operator2" />
-      <item itemvalue="Application.Car" />
       <item itemvalue="Application.result" />
+      <item itemvalue="Application.sumSubs" />
     </list>
     <recent_temporary>
       <list>
