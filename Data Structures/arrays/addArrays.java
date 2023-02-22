@@ -13,9 +13,9 @@ public class addArrays {
        // insert all elements till n
        // then insert x at n+1
        for (i = 0; i < n; i++)
-           newarr[i] = arr[i];
+           wow[i] = arr[i];
    
-       newarr[n] = x;
+       wow[n] = x;
    
        return newarr;
    }
