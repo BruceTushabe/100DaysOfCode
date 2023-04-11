@@ -6,7 +6,7 @@ public class addArrays {
        int i;
    
        // create a new array of size n+1
-       int newarr[] = new int[n + 1];
+       int wow[] = new int[n + 1];
    
        // insert the elements from
        // the old array into the new array
@@ -17,7 +17,7 @@ public class addArrays {
    
        wow[n] = x;
    
-       return newarr;
+       return wow;
    }
    
    // Driver code
