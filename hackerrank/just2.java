@@ -40,7 +40,7 @@ class just2 {
 
         }
 
-        public static void main(String args[]){
+        public static void Main(String[] args){
 
             int [][] A = {{4,8}, {10, 20}, {15, 30}, {3, 6}};
 
