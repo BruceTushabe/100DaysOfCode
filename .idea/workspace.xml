@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varu/DayTripper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract classes/com/tech/abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract classes/com/tech/abstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/just2.java" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/just2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100DaysOfCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/just2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/varu/Var.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/varu/val.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +68,14 @@
       <recent name="varu" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.yo">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.Car" />
-      <module name="100DaysOfCode" />
+  <component name="RunManager" selected="Application.DayTripper">
+    <configuration name="DayTripper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="varu.DayTripper" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="varu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DayTripper" />
       <item itemvalue="Application.yo" />
-      <item itemvalue="Application.Car" />
       <item itemvalue="Application.TheArrays" />
       <item itemvalue="Application.operator2" />
       <item itemvalue="Application.sumSubs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayTripper" />
         <item itemvalue="Application.yo" />
         <item itemvalue="Application.TheArrays" />
         <item itemvalue="Application.sumSubs" />
         <item itemvalue="Application.operator2" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +162,8 @@
       <updated>1658263211181</updated>
       <workItem from="1684781823715" duration="341000" />
       <workItem from="1685079844234" duration="88000" />
-      <workItem from="1685079954867" duration="7691000" />
+      <workItem from="1685079954867" duration="8881000" />
+      <workItem from="1685310620529" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="Day 17, Created a new project on encapsulation.">
       <created>1658264256175</created>
