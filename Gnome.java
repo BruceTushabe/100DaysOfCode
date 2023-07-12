@@ -30,9 +30,7 @@ public class Gnome {
     
     }
 
-
     // Methods
-
 
     public static void makeKing(Gnome h) {
         h.name = "King" + h.getRealName();
