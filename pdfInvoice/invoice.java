@@ -54,4 +54,22 @@ public class invoice implements Payable{
     public double getPaymentAmount(){
         return getQuantity() * getPricePerItem();
     }
+
+    @Override
+    public double getAmount() {
+        
+        throw new UnsupportedOperationException("Unimplemented method 'getAmount'");
+    }
+
+    @Override
+    public void setAmount(double amount) {
+
+        throw new UnsupportedOperationException("Unimplemented method 'setAmount'");
+    }
+
+    @Override
+    public void makePayment() {
+        
+        throw new UnsupportedOperationException("Unimplemented method 'makePayment'");
+    }
 }
