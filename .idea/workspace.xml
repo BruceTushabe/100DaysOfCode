@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d080ba-a5a3-4558-b35a-9fbfea7f2245" name="Changes" comment="Improved the code">
-      <change afterPath="$PROJECT_DIR$/varu/DayTripper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varu/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100DaysOfCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/just2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/varu/Var.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/varu/val.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +160,7 @@
       <workItem from="1685079844234" duration="88000" />
       <workItem from="1685079954867" duration="8881000" />
       <workItem from="1685310620529" duration="1690000" />
+      <workItem from="1689449939909" duration="2008000" />
     </task>
     <task id="LOCAL-00001" summary="Day 17, Created a new project on encapsulation.">
       <created>1658264256175</created>
