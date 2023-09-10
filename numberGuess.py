@@ -1,23 +1,28 @@
 import random # Import the random module 
 
-n = random.randint(1, 15) # Generate a random integer between 1 and 15
+n = random.randrange(1, 20) # Generate a random number between 1 and 20
 
-guess = int(input("Enter an integer from 1 to 15: ")) # Ask the user to guess the number 
 
-while n != "guess": # Loop untill the user guesses the number correctly
+guess = int(input("Enter any number: "))
 
-    if guess > n:
-        print ("Guess is too high")
+while n != guess:
 
-        guess = int(input("Enter an integer:"))
+    if guess < n:
+        print("Guess too low")
 
-    elif guess < n:
-        print ("Guess is too low")
+        guess = int(input("Enter a number again: "))
 
-        guess = int(input("Enter an Integer:"))
+    elif guess > n:
+        print("Guess too high")
+
+        guess = int(input("Enter a number again: "))
 
     else:
 
-        print("You guessed it!")
+        break # This when the condition is met
 
-        break # This condition is the correct guess!
+    print("Wow! You guessed right!")
+
+
+
+
