@@ -1,15 +1,9 @@
-from pytube import YouTube
+TP = 114
 
-# URL of the YouTube video you want to download
-video_url = "https://www.youtube.com/watch?v=VIDEO_ID"
+FP = 14
 
-# Create a YouTube object
-yt = YouTube(video_url)
+precision = TP / (TP +FP)
 
-# Choose the stream with the highest resolution (usually, stream order is from highest to lowest resolution)
-video_stream = yt.streams.get_highest_resolution()
+print(f"Precision: {precision: 4.2f}")
 
-# Download the video to the current working directory
-video_stream.download()
 
-print("Video downloaded successfully!")
